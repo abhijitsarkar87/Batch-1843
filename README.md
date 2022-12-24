@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abhijitsarkar87
 - 👀 I’m interested in ...Only Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Jharkhand
+-  Phone 9711962276
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Abhijitsarkar87@gmail.com
 
