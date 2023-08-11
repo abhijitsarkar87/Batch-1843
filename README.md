@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abhijitsarkar87
-- 👀 I’m interested in ...Only Data Science
-- 🌱 I’m currently learning ... Jharkhand
--  Phone 9711962276
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi There 🐬 My Name is Abhijit Sarkar
+- 👀 I’m Data Science Aspirant..
+- 🛰️ Looking for career as Data Analyst with Data Science Feild...
+- 🌱 I’m currently learning... NLP
+- 💞️ I’m looking to collaborate on ...Data Science and Data Analyst Job
 - 📫 How to reach me ...Abhijitsarkar87@gmail.com
 
 <!---
